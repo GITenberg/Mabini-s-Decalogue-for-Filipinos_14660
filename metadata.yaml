@@ -1,0 +1,31 @@
+_repo: Mabini-s-Decalogue-for-Filipinos_14660
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mabini, Apolinario
+    alias: Maranan, Apolinario Mabini y
+    birthdate: 1864
+    deathdate: 1903
+    gutenberg_agent_id: '5616'
+    url: http://www.gutenberg.org/2009/agents/5616
+    wikipedia: http://en.wikipedia.org/wiki/Apolinario_Mabini
+description: ''
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'DS'
+- !lcc 'JC'
+- !lcsh 'Mabini, Apolinario, 1864-1903'
+- !lcsh 'Patriotism'
+title: Mabini's Decalogue for Filipinos
+url: http://www.gutenberg.org/ebooks/14660
