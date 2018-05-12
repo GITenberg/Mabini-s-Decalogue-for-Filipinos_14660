@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5616
     wikipedia: http://en.wikipedia.org/wiki/Apolinario_Mabini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14660#Mabini-s-Decalogue-for-Filipinos
 gutenberg_issued: '2005-01-10'
 gutenberg_type: Text
 identifiers:
